@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osamazeeshan
-- 👀 I’m interested in developing models that can have an impact 
+- 👀 I’m a Developer - Consultant - Student - ML Researcher ~ interested in developing platforms that can have an impact 
 - 🌱 I’m currently working on weaklysupervised/unsupervised learning for detecting ambivalence in human behavior changes using domain adaptation 
 - 📫 osamaz.oz31@gmail.com; https://www.linkedin.com/in/osama-zeeshan-b458317b/
 
